@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Jhon-Gelvez/FuncionesModularizaci-n-3315656/issues"
   },
-  "homepage": "https://github.com/Jhon-Gelvez/FuncionesModularizaci-n-3315656#readme"
+  "homepage": "https://github.com/Jhon-Gelvez/FuncionesModularizaci-n-3315656#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
