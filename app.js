@@ -6,6 +6,7 @@ import { mayoresQue50 } from './transferencia/eje3.js'
 import { cajeroAutomatico } from './transferencia/eje4.js'
 import {  competenciaAtletismo } from './apropiacion/eje5.js'
 import {  cajeroAutomatico } from './transferencia/eje3.js'
+import { promedioNotas  } from './transferencia/eje4.js'
 
 multiposDe3();
 registrarIngresoEstudiantes();
