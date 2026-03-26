@@ -5,6 +5,7 @@ import {tablaMultiplicar} from './transferencia/eje2.js'
 import { mayoresQue50 } from './transferencia/eje3.js'
 import { cajeroAutomatico } from './transferencia/eje4.js'
 import {  competenciaAtletismo } from './apropiacion/eje5.js'
+import {  cajeroAutomatico } from './transferencia/eje3.js'
 
 multiposDe3();
 registrarIngresoEstudiantes();
