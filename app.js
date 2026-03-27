@@ -10,6 +10,7 @@ import { promedioNotas  } from './transferencia/eje4.js'
 import { tiendaProductos  } from './transferencia/eje5.js'
 import {iniciarcarrera} from  "./apropiacion/eje6.js";
 import { iniciarJuego } from './transferencia/eje6.js'
+import {sumarHastaNoventa} from "./apropiacion/eje7.js";
  
 
 multiposDe3();
@@ -20,3 +21,4 @@ mayoresQue50();
 cajeroAutomatico();
 iniciarcarrera();
 iniciarJuego();
+sumarHastaNoventa();
