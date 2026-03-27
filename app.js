@@ -8,7 +8,8 @@ import {  competenciaAtletismo } from './apropiacion/eje5.js'
 import {  cajeroAutomatico } from './transferencia/eje3.js'
 import { promedioNotas  } from './transferencia/eje4.js'
 import { tiendaProductos  } from './transferencia/eje5.js'
-
+import { iniciarJuego } from './transferencia/eje6.js'
+ 
 
 multiposDe3();
 registrarIngresoEstudiantes();
@@ -16,3 +17,4 @@ mostrarPrimos();
 tablaMultiplicar();
 mayoresQue50();
 cajeroAutomatico();
+iniciarJuego();
