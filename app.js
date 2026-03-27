@@ -11,6 +11,7 @@ import { tiendaProductos  } from './transferencia/eje5.js'
 import {iniciarcarrera} from  "./apropiacion/eje6.js";
 import { iniciarJuego } from './transferencia/eje6.js'
 import {sumarHastaNoventa} from "./apropiacion/eje7.js";
+import {filtrarMayores} from  "./apropiacion/eje8.js"
  
 
 multiposDe3();
@@ -22,3 +23,4 @@ cajeroAutomatico();
 iniciarcarrera();
 iniciarJuego();
 sumarHastaNoventa();
+filtrarMayores();
