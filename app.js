@@ -13,7 +13,7 @@ import { iniciarJuego } from './transferencia/eje6.js'
 import {sumarHastaNoventa} from "./apropiacion/eje7.js";
 import { contadorNumeros } from "./transferencia/eje7.js";
 import {filtrarMayores} from  "./apropiacion/eje8.js"
- 
+ import { contraseña } from "./transferencia/eje8.js";
 
 multiposDe3();
 registrarIngresoEstudiantes();
@@ -26,3 +26,4 @@ iniciarJuego();
 sumarHastaNoventa();
 contadorNumeros();
 filtrarMayores();
+contraseña ();
