@@ -8,7 +8,7 @@ export function iniciarJuego() {
     while (!acertado) {
         let entrada = prompt("Adivina el número (1-20):");
 
-        if (entrada === null) break; // Cancelar juego
+        if (entrada === null) break; 
 
         let intento = parseInt(entrada);
 
