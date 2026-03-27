@@ -1,6 +1,6 @@
 import readlineSync from 'readline-sync';
 
-export const cajeroAutomatico = () => {
+export const cajeroAutomaticoTransferencia = () => {
   const saldoInicial = 1000;
   let saldo = saldoInicial;
 
